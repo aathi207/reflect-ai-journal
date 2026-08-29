@@ -1,0 +1,7 @@
+{
+  "name": "Gemini MindLog - AI Behavioral Growth Journal",
+  "description": "An empathetic, highly analytical personal growth journal and expert AI behavioral coach providing CBT cognitive reframing, emotional diagnostics, and intentional reflection prompts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
